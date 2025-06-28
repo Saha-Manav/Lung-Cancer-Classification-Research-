@@ -23,7 +23,7 @@ This is a research-driven deep learning project focused on the **classification 
 ## 📂 Dataset
 
 - Name: IQ-OTH/NCCD (Iraq Oncology Teaching Hospital)
-- Link: [IQ-OTH/NCCD on Kaggle](https://www.kaggle.com/datasets)
+- Link: [IQ-OTH/NCCD on Kaggle](https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset)
 - Format: CT scan slices (PNG/JPG)
 
 ## 🛠️ Tech Stack
