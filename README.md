@@ -37,3 +37,7 @@ This is a research-driven deep learning project focused on the **classification 
    ```bash
    git clone https://github.com/yourusername/Lung-Cancer-Classification-Research.git
    cd Lung-Cancer-Classification-Research
+
+## Install dependencies:
+
+pip install -r requirements.txt
